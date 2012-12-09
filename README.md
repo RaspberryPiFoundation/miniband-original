@@ -7,7 +7,6 @@ Learn how to build circuits with sensors and outputs and write a simple programm
 ## You will make:
 
 * A guitar
-* A keyboard
 * A set of drums
 * A pair of maracas
 
@@ -23,6 +22,7 @@ Learn how to build circuits with sensors and outputs and write a simple programm
 * Bread boards (1 per instrument)
 * Card
 * Sugru (or some other modelling material)
+* Electrical tape
 
 
 ## Software requirements:
@@ -39,13 +39,30 @@ Take your 4 piezo buzzers and attach a ring of Sugru (or other modelling materia
 This will increase the flexibility and resonance of the sensors. Let the sugru set.
 
 
-### 2. Make the circuit
+### 2. Connect the circuit
 
 Piezo buzzers generate a small charges when you tap them, so they don’t need a power source.
 Connect one lead from your buzzer to one of your analogue inputs, and connect the other lead to ground.
 Repeat for each of your drums. It is easiest to use a bread board for making your circuit. 
 Look at the picture for an example.
 
+
+### 3. Set up in Scratch 
+
+Find four different drum sounds (or whatever sounds you'd like your drums to make!). Upload the sounds to Scratch.
+
+
+## Guitar
+
+### 1. Make your guitar
+
+Grab your strip potentiomater, a piece of thin card, and a pencil. 
+Lightly draw round your potentiometer on the card and then use this as a guide to draw out your guitar shape. 
+(The potentiomater will be the fret board of your guitar).
+Cut out and colour in the guitar and stick down the potentiomater.
+Tape a pencil or stick to the back of the guitar to make it stiffen the fret board. 
+
+### 2. Connect the circuit
 
 
 ## Pull-down Resistors
