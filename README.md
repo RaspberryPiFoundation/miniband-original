@@ -119,6 +119,8 @@ Find five different guitar sounds and upload to Scratch.
 
 ## Maracas
 
+<img src="http://farm9.staticflickr.com/8346/8257698652_4a99ee24b4.jpg" width="500" height="375" alt="Code Club Miniband">
+
 ### 1. Make your maracas
 
 Cut 2 short lengths of drinking straw for your maraca handles. 
@@ -127,12 +129,14 @@ Push the maraca heads onto the straws and mold into a maraca shape.
 Connect lengths of wire to the connectors of the 2 tilt sensors and then push each sensor into a straw until it presses into the Sugru.
 Leave the Sugru to set.
 
+<img src="http://farm9.staticflickr.com/8222/8256627511_118192e52f.jpg" width="500" height="375" alt="Code Club Miniband">
 
 ### 2. Connect the circuit
 
 Connect the +5V port on the Arduino board to one of the pins on the tilt switch (it doesn't matter which way round).
 Connect the other pin to an empty digital input on the board. 
 
+<img src="http://farm9.staticflickr.com/8348/8257698572_4157db0b20.jpg" width="500" height="375" alt="Code Club Miniband">
 
 ### 3. Program the Arduino
 
