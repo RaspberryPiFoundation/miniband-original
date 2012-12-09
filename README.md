@@ -1,5 +1,7 @@
 # Code Club - Mini Band Project
 
+<img src="http://farm9.staticflickr.com/8338/8256708023_4a941566e9.jpg" width="500" height="375" alt="photo (2)">
+
 Make your own mini band! 
 You and your friends can form your own finger-sized band and rock out using Raspberry Pi and Arduino. 
 Learn how to build circuits with sensors and outputs and write a simple programme to control your instruments.
