@@ -43,7 +43,8 @@ This will increase the flexibility and resonance of the sensors. Let the sugru s
 
 Piezo buzzers generate a small charges when you tap them, so they don’t need a power source.
 Connect one lead from your buzzer to one of your analogue inputs, and connect the other lead to ground.
-Repeat for each of your drums.
+Repeat for each of your drums. It is easiest to use a bread board for making your circuit. 
+Look at the picture for an example.
 
 
 
