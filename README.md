@@ -37,6 +37,19 @@ Learn how to build circuits with sensors and outputs and write a simple programm
 ## Useful links:
 
 * [Pictures](http://bit.ly/codeclubminiband) 
+* [Ardunio code](https://github.com/KatJoyWhite/miniband/tree/master/arduino)
+
+
+
+## Pull-down Resistors
+
+You’ll find your analogue inputs receive signal when you don’t expect them to.
+This is because there’s electricty floating around in the system, or something like that.
+
+To fix this, you need to wire each input to ground, through a 10KΩ resistor.
+
+A better explanation can be found [here](http://arduino.cc/en/Tutorial/DigitalPins).
+
 
 
 ## Drum Kit
@@ -55,7 +68,7 @@ Repeat for each of your drums. It is easiest to use a bread board for making you
 Look at the picture for an example.
 
 
-### 3. Progam the Arduino
+### 3. Program the Arduino
 
 Find the appropriate code from the respository and upload to your Ardunio board.
 
@@ -84,8 +97,15 @@ the fretboard runs (high and the top, low at the bottom or vice-versa).
 
 Signal will come from the centre pin, so connect that to one of your analogue inputs and you should be good to go.
 
-### 3. Set up in Scratch
 
+### 3. Program the Arduino
+
+Find the appropriate code from the respository and upload to your Ardunio board.
+
+
+### 4. Set up in Scratch
+
+Find five different guitar sounds and upload to Scratch.
 
 
 ## Maracas
@@ -105,14 +125,13 @@ Connect the +5V port on the Arduino board to one of the pins on the tilt switch 
 Connect the other pin to an empty digital input on the board. 
 
 
-### 3. 
+### 3. Program the Arduino
+
+Find the appropriate code from the respository and upload to your Ardunio board.
 
 
-## Pull-down Resistors
+### 4. Set up in Scratch
 
-You’ll find your analogue inputs receive signal when you don’t expect them to.
-This is because there’s electricty floating around in the system, or something like that.
+Find a maraca / shaker sound and upload to Scratch.
 
-To fix this, you need to wire each input to ground, through a 10KΩ resistor.
 
-A better explanation can be found [here](http://arduino.cc/en/Tutorial/DigitalPins).
