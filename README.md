@@ -18,12 +18,18 @@ Learn how to build circuits with sensors and outputs and write a simple programm
 * 2 x Arduino Uno boards (with USB cables)
 * 1 x strip potentiometer
 * 2 x tilt sensors
-* 5 x piezo buzzers
+* 4 x piezo buzzers
 * 10K resistors
 * Bread boards (1 per instrument)
+* Card
+* Sugru (or some other modelling material)
+
 
 ## Software requirements:
 
 * Scratch
 * IDE developer environment for Arduino
 * Py Serial library
+
+## Drum Kit
+
