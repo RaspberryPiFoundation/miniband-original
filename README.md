@@ -55,10 +55,14 @@ A better explanation can be found [here](http://arduino.cc/en/Tutorial/DigitalPi
 
 ## Drum Kit
 
+<img src="http://farm9.staticflickr.com/8074/8257699966_7585ca06e7.jpg" width="375" height="500" alt="Code Club Miniband"><
+
 ### 1. Make your drums
 
 Take your 4 piezo buzzers and attach a ring of Sugru (or other modelling material) as shown in the picture. 
 This will increase the flexibility and resonance of the sensors. Let the sugru set.
+
+<img src="http://farm9.staticflickr.com/8353/8256628815_6c3872d3ac.jpg" width="500" height="375" alt="Code Club Miniband">
 
 
 ### 2. Connect the circuit
@@ -68,6 +72,7 @@ Connect one lead from your buzzer to one of your analogue inputs, and connect th
 Repeat for each of your drums. It is easiest to use a bread board for making your circuit. 
 Look at the picture for an example.
 
+<img src="http://farm9.staticflickr.com/8081/8256628955_f65a76b6fb.jpg" width="500" height="375" alt="Code Club Miniband">
 
 ### 3. Program the Arduino
 
