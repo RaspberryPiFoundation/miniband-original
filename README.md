@@ -23,6 +23,8 @@ Learn how to build circuits with sensors and outputs and write a simple programm
 * Card
 * Sugru (or some other modelling material)
 * Electrical tape
+* Plastic drinking straw
+* Pencil
 
 
 ## Software requirements:
@@ -47,7 +49,12 @@ Repeat for each of your drums. It is easiest to use a bread board for making you
 Look at the picture for an example.
 
 
-### 3. Set up in Scratch 
+### 3. Progam the Arduino
+
+Find the appropriate code from the respository and upload to your Ardunio board.
+
+
+### 4. Set up in Scratch 
 
 Find four different drum sounds (or whatever sounds you'd like your drums to make!). Upload the sounds to Scratch.
 
@@ -64,7 +71,7 @@ Tape a pencil or stick to the back of the guitar to make it stiffen the fret boa
 
 ### 2. Connect the circuit
 
-The strip just adjusts resistance, so you will need to feed it some electricity.
+The potentiomater strip adjusts resistance, so you will need to feed it some electricity.
 Run +5V into one of the strip’s outer pins, and ground into the other outer pin.
 It doesn’t matter which way around you connect these, but it will affect which the direction
 the fretboard runs (high and the top, low at the bottom or vice-versa).
@@ -76,6 +83,24 @@ Signal will come from the centre pin, so connect that to one of your analogue in
 
 
 ## Maracas
+
+### 1. Make your maracas
+
+Cut 2 short lengths of drinking straw for your maraca handles. 
+Using Sugru (or other modelling material), make 2 maraca heads by rolling it up into balls.
+Push the maraca heads onto the straws and mold into a maraca shape.
+Connect lengths of wire to the connectors of the 2 tilt sensors and then push each sensor into a straw until it presses into the Sugru.
+Leave the Sugru to set.
+
+
+### 2. Connect the circuit
+
+Connect the +5V port on the Arduino board to one of the pins on the tilt switch (it doesn't matter which way round).
+Connect the other pin to an empty digital input on the board. 
+
+
+### 3. 
+
 
 ## Pull-down Resistors
 
