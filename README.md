@@ -86,6 +86,8 @@ Find four different drum sounds (or whatever sounds you'd like your drums to mak
 
 ## Guitar
 
+<img src="http://farm9.staticflickr.com/8070/8257698984_8471e4cf57.jpg" width="500" height="375" alt="Code Club Miniband">
+
 ### 1. Make your guitar
 
 Grab your strip potentiomater, a piece of thin card, and a pencil. 
@@ -103,6 +105,7 @@ the fretboard runs (high and the top, low at the bottom or vice-versa).
 
 Signal will come from the centre pin, so connect that to one of your analogue inputs and you should be good to go.
 
+<img src="http://farm9.staticflickr.com/8363/8257699194_a2645e0e06.jpg" width="500" height="375" alt="Code Club Miniband">
 
 ### 3. Program the Arduino
 
