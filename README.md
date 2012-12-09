@@ -25,6 +25,7 @@ Learn how to build circuits with sensors and outputs and write a simple programm
 * Electrical tape
 * Plastic drinking straw
 * Pencil
+* Coloured pens (optional)
 
 
 ## Software requirements:
@@ -134,4 +135,17 @@ Find the appropriate code from the respository and upload to your Ardunio board.
 
 Find a maraca / shaker sound and upload to Scratch.
 
+
+## Python glueware
+
+Download the music-maker-hander.py file from the repository. Run it with
+ python music-maker-handler.py
+This program sets up a listener for each instrument. When it detects that an instrument has been played, it sends a couple of signals to Scratch.
+The first signal appears in Scratch as a sensor value and is the volume (for drums), pitch (for the guitar), or ignored (for the maracas).
+The second signal is a broadcast message that makes Scratch play the sound in the instrument.
+
+
+## Scratch front end
+
+The Scratch file, music-maker, makes the sounds. It responds to the signals from the Python handler above by playing the appropriate sounds. It also does some visual feedback for the insturments. 
 
