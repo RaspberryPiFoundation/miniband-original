@@ -33,6 +33,12 @@ Learn how to build circuits with sensors and outputs and write a simple programm
 * IDE developer environment for Arduino
 * Py Serial library
 
+
+## Useful links:
+
+* [Pictures](http://bit.ly/codeclubminiband) 
+
+
 ## Drum Kit
 
 ### 1. Make your drums
