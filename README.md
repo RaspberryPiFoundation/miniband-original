@@ -148,6 +148,13 @@ Find the appropriate code from the respository and upload to your Ardunio board.
 Find a maraca / shaker sound and upload to Scratch.
 
 
+## Connecting to the Raspberry Pi
+
+Set up your Raspberry Pi with a power supply and monitor. 
+Connect all your Ardunio boards (it's easiest to have one per instrument!) to the Raspberry Pi using USB. 
+You will probably need a USB hub.
+
+
 ## Python glueware
 
 Download the music-maker-hander.py file from the repository. Run it with
