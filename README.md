@@ -64,6 +64,18 @@ Tape a pencil or stick to the back of the guitar to make it stiffen the fret boa
 
 ### 2. Connect the circuit
 
+The strip just adjusts resistance, so you will need to feed it some electricity.
+Run +5V into one of the strip’s outer pins, and ground into the other outer pin.
+It doesn’t matter which way around you connect these, but it will affect which the direction
+the fretboard runs (high and the top, low at the bottom or vice-versa).
+
+Signal will come from the centre pin, so connect that to one of your analogue inputs and you should be good to go.
+
+### 3. Set up in Scratch
+
+
+
+## Maracas
 
 ## Pull-down Resistors
 
