@@ -160,13 +160,19 @@ You will probably need a USB hub.
 ## Python glueware
 
 Download the music-maker-hander.py file from the repository. Run it with
- python music-maker-handler.py
+    python music-maker-handler.py
 This program sets up a listener for each instrument. When it detects that an instrument has been played, it sends a couple of signals to Scratch.
+
 The first signal appears in Scratch as a sensor value and is the volume (for drums), pitch (for the guitar), or ignored (for the maracas).
+
 The second signal is a broadcast message that makes Scratch play the sound in the instrument.
 
+One problem we had was with how the operating sytem mapped the various Arduinos to devices. It seemed to be pretty arbitrary. In the end, we tracked the device names by running
+    tail -f /var/log/syslog
+in a separate terminal and watching what the devices were called when we plugged them in. We could then edit the various DEVICE parameters in to top of the Python script to fit.
 
 ## Scratch front end
 
 The Scratch file, music-maker, makes the sounds. It responds to the signals from the Python handler above by playing the appropriate sounds. It also does some visual feedback for the insturments. 
 
+Scratch on the Raspberry Pi is very slow, especially when it comes to updating the screen. Very often, Scratch would hang mid-way through a jamming session, only to start playing all the sounds after a short while. During the demos, people suggested that we minimise the Scratch window to reduce its workload.
