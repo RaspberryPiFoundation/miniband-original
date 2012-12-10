@@ -169,7 +169,7 @@ The second signal is a broadcast message that makes Scratch play the sound in th
 
 One problem we had was with how the operating sytem mapped the various Arduinos to devices. It seemed to be pretty arbitrary. In the end, we tracked the device names by running
     tail -f /var/log/syslog
-in a separate terminal and watching what the devices were called when we plugged them in. We could then edit the various DEVICE parameters in to top of the Python script to fit.
+in a separate terminal and watching what the devices were called when we plugged them in. We could then edit the various DEVICE parameters in to top of the Python script to fit. You could probably be cleverer by using some udev rules to fix the device names, but we didn't think of that (and didn't have enough time either).
 
 ## Scratch front end
 
